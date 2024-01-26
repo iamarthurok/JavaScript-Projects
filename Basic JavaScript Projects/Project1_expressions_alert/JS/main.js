@@ -1,1 +1,2 @@
-document.write("Hello, world!");
+document.write("A");
+var A = "This is a string";
