@@ -1,1 +1,0 @@
-file will contain introduction to all my JacaScript projects
